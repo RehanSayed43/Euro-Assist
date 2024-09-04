@@ -1,0 +1,48 @@
+{
+  "id": "1ff694ce-0135-4981-a443-754224337845",
+  "name": "Euro2024Extension",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "publisher": "Microsoft",
+      "name": "India Voucher Interface",
+      "version": "24.2.20227.20579"
+    
+    },
+    {
+      "id": "c8b6d6aa-db49-42a1-a991-0f811ce31cb6",
+      "publisher": "CocoonIT Services Pvt Ltd",
+      "name": "EuropCCIT",
+      "version": "1.0.0.33"
+    }
+    
+   
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
